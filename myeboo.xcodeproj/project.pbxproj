@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		430EB2A427553E8600ED27FB /* memlist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430EB2A327553E8600ED27FB /* memlist.swift */; };
+		430EB2A727554E9400ED27FB /* instrlazy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430EB2A627554E9400ED27FB /* instrlazy.swift */; };
+		430EB2AA2757897500ED27FB /* Ins0.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430EB2A92757897500ED27FB /* Ins0.swift */; };
+		430EB2AD2757935300ED27FB /* Ins1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430EB2AC2757935300ED27FB /* Ins1.swift */; };
+		430EB2B02757957700ED27FB /* Ins2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430EB2AF2757957700ED27FB /* Ins2.swift */; };
+		430EB2B3275796FD00ED27FB /* Ins3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430EB2B2275796FD00ED27FB /* Ins3.swift */; };
+		430EB2B62757989400ED27FB /* Ins4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430EB2B52757989400ED27FB /* Ins4.swift */; };
+		430EB2B92759120100ED27FB /* ani.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430EB2B82759120000ED27FB /* ani.swift */; };
+		43CABA9C274A2D00002608BA /* lilicons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CABA9B274A2D00002608BA /* lilicons.swift */; };
+		43CABA9F274A2D8C002608BA /* MembersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CABA9E274A2D8C002608BA /* MembersView.swift */; };
+		43CABAA2274A2DBE002608BA /* Musicview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CABAA1274A2DBE002608BA /* Musicview.swift */; };
+		43CABAA6274CF11D002608BA /* member.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CABAA5274CF11D002608BA /* member.swift */; };
+		43CABAAD274D2631002608BA /* instru.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CABAAC274D2631002608BA /* instru.swift */; };
 		536B2EF62738174800C2983F /* myebooApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 536B2EF52738174800C2983F /* myebooApp.swift */; };
 		536B2EF82738174800C2983F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 536B2EF72738174800C2983F /* ContentView.swift */; };
 		536B2EFA2738175200C2983F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 536B2EF92738175200C2983F /* Assets.xcassets */; };
@@ -14,6 +27,19 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		430EB2A327553E8600ED27FB /* memlist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = memlist.swift; sourceTree = "<group>"; };
+		430EB2A627554E9400ED27FB /* instrlazy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instrlazy.swift; sourceTree = "<group>"; };
+		430EB2A92757897500ED27FB /* Ins0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ins0.swift; sourceTree = "<group>"; };
+		430EB2AC2757935300ED27FB /* Ins1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ins1.swift; sourceTree = "<group>"; };
+		430EB2AF2757957700ED27FB /* Ins2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ins2.swift; sourceTree = "<group>"; };
+		430EB2B2275796FD00ED27FB /* Ins3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ins3.swift; sourceTree = "<group>"; };
+		430EB2B52757989400ED27FB /* Ins4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ins4.swift; sourceTree = "<group>"; };
+		430EB2B82759120000ED27FB /* ani.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ani.swift; sourceTree = "<group>"; };
+		43CABA9B274A2D00002608BA /* lilicons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lilicons.swift; sourceTree = "<group>"; };
+		43CABA9E274A2D8C002608BA /* MembersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MembersView.swift; sourceTree = "<group>"; };
+		43CABAA1274A2DBE002608BA /* Musicview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Musicview.swift; sourceTree = "<group>"; };
+		43CABAA5274CF11D002608BA /* member.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = member.swift; sourceTree = "<group>"; };
+		43CABAAC274D2631002608BA /* instru.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instru.swift; sourceTree = "<group>"; };
 		536B2EF22738174800C2983F /* myeboo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myeboo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		536B2EF52738174800C2983F /* myebooApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myebooApp.swift; sourceTree = "<group>"; };
 		536B2EF72738174800C2983F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +80,19 @@
 			children = (
 				536B2EF52738174800C2983F /* myebooApp.swift */,
 				536B2EF72738174800C2983F /* ContentView.swift */,
+				43CABAAC274D2631002608BA /* instru.swift */,
+				430EB2A627554E9400ED27FB /* instrlazy.swift */,
+				430EB2A92757897500ED27FB /* Ins0.swift */,
+				430EB2AC2757935300ED27FB /* Ins1.swift */,
+				430EB2AF2757957700ED27FB /* Ins2.swift */,
+				430EB2B2275796FD00ED27FB /* Ins3.swift */,
+				430EB2B52757989400ED27FB /* Ins4.swift */,
+				43CABA9B274A2D00002608BA /* lilicons.swift */,
+				43CABAA1274A2DBE002608BA /* Musicview.swift */,
+				43CABA9E274A2D8C002608BA /* MembersView.swift */,
+				430EB2B82759120000ED27FB /* ani.swift */,
+				430EB2A327553E8600ED27FB /* memlist.swift */,
+				43CABAA5274CF11D002608BA /* member.swift */,
 				536B2EF92738175200C2983F /* Assets.xcassets */,
 				536B2EFE2738175200C2983F /* Info.plist */,
 				536B2EFB2738175200C2983F /* Preview Content */,
@@ -138,8 +177,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				430EB2A727554E9400ED27FB /* instrlazy.swift in Sources */,
+				43CABA9F274A2D8C002608BA /* MembersView.swift in Sources */,
 				536B2EF82738174800C2983F /* ContentView.swift in Sources */,
+				43CABA9C274A2D00002608BA /* lilicons.swift in Sources */,
+				430EB2A427553E8600ED27FB /* memlist.swift in Sources */,
+				430EB2B02757957700ED27FB /* Ins2.swift in Sources */,
+				43CABAA2274A2DBE002608BA /* Musicview.swift in Sources */,
+				430EB2B62757989400ED27FB /* Ins4.swift in Sources */,
+				430EB2B3275796FD00ED27FB /* Ins3.swift in Sources */,
+				430EB2AD2757935300ED27FB /* Ins1.swift in Sources */,
 				536B2EF62738174800C2983F /* myebooApp.swift in Sources */,
+				430EB2B92759120100ED27FB /* ani.swift in Sources */,
+				430EB2AA2757897500ED27FB /* Ins0.swift in Sources */,
+				43CABAAD274D2631002608BA /* instru.swift in Sources */,
+				43CABAA6274CF11D002608BA /* member.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
